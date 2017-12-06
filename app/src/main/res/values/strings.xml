@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiSelectDemo</string>
+    <string name="longpress_item_to_start_multiselect">Longpress item to start multiselect...</string>
+    <string name="delete_item">Delete item</string>
+</resources>
